@@ -1,6 +1,6 @@
 #Appendix I 
 
-#6.28 Part A
+#6.28 Part A (first)
 	pop <- c(CDI$V5)
 	area <- c(CDI$V4)
 	income <- c(CDI$V16)
